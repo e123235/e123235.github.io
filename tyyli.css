@@ -1,0 +1,98 @@
+*{
+	font-family: "PT Sans", "Tondu Beta"
+}
+
+body{
+	background-color: #28A9E1;
+	color: white
+	
+}
+
+li {
+	display: inline;
+	float: left;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #253764;
+	width: 100%
+}
+
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	text-decoration: none
+}
+
+li a:hover{
+	background-color: #F0E005
+}
+
+ul {
+	position: fixed;
+	top: 0;
+}
+
+.otsikko{
+	font-family: "Tondu Beta"
+}
+
+h1{
+	color: white;
+	font-family: "Tondu Beta"
+}
+
+a:link, a:visited{
+	text-decoration: none;
+	background-color: #253764;
+	color: white;
+	display: inline-block;
+	padding: 8px;
+	text-align: center;
+}
+
+a:hover{
+	background-color: #F0E005
+}
+
+.myDiv {
+	border: 5px;
+	background-color: #253764;
+	text-align: center
+}
+
+.sidenav {
+	height: 100%;
+	width: 30%;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	right: 0;
+	background-color: #253764;
+	overflow-x: hidden;
+	padding-top: 10px;
+}
+
+.sidenav img{
+	width: 100%;
+}
+
+.lol {
+	width: 70%
+}
+
+img {
+	border-radius: 8px
+}
+
+.sivukuva {
+	float: right;
+	width: 160px;
+	margin: 20px
+}
