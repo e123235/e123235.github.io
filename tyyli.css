@@ -39,13 +39,10 @@ ul {
 	top: 0;
 }
 
-.otsikko{
-	font-family: "Tondu Beta"
-}
-
 h1{
 	color: white;
-	font-family: "Tondu Beta"
+	font-family: "Tondu Beta";
+	letter-spacing: 4px
 }
 
 a:link, a:visited{
