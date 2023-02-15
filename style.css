@@ -93,3 +93,7 @@ img {
 	width: 160px;
 	margin: 20px
 }
+
+figcaption {
+	font-size: 10px;
+}
